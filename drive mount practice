@@ -1,0 +1,4 @@
+cd repository-basic/
+!git init https://github.com/Sbeom12/github-.git
+!git config --global user.email '이메일 주소'
+!git config --global user.name "username"
